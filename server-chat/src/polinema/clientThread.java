@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package aboullaite;
+package polinema;
 
 import java.io.DataInputStream;
 import java.io.IOException;
@@ -13,7 +13,7 @@ import java.net.Socket;
 
 /**
  *
- * @author mohammed
+ * @author polinema
  */
 
 

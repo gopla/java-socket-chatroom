@@ -1,4 +1,4 @@
-package aboullaite;
+package polinema;
 
 import javax.swing.*;
 import java.awt.*;

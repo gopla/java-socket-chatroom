@@ -1,6 +1,6 @@
 
 
-package aboullaite;
+package polinema;
 
 import java.io.PrintStream;
 import java.io.IOException;
@@ -8,7 +8,7 @@ import java.net.Socket;
 import java.net.ServerSocket;
 /**
  *
- * @author mohammed
+ * @author polinema
  */
 
 // the Server class
